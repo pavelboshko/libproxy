@@ -1,0 +1,3 @@
+[submodule "3rdparty/httpxx"]
+	path = 3rdparty/httpxx
+	url = git@github.com:AndreLouisCaron/httpxx.git
