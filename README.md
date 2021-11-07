@@ -5,7 +5,7 @@ lightweight http proxy library, for authentication on proxy server via protocols
 
 Library provide auto detect  protocol of authentication.
 
-# starup
+# startup
 ######  load all modules
 git submodule update --init --recursive
 
